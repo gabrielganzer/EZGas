@@ -1,6 +1,7 @@
 # EZGas
 
-SE 2020 project
+Final project presented to the Software Engineering 19/20 course at Politecnico di Torino.
+Authors: Marco Bellavia, Gabriel Ganzer, Gianluca Morabito, Francesco Xia.
 
 EZGas is a crowdsourcing service that allows users to:
 * collect prices of fuels in different gas stations
