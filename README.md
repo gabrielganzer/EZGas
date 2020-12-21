@@ -6,7 +6,7 @@
 Final project presented to the Software Engineering 19/20 course at Politecnico di Torino.
 Authors: Marco Bellavia, Gabriel Ganzer, Gianluca Morabito, Francesco Xia.
 
-Each gas station in Italy is free to define the price of fuels (regular gasoline, premium gasoline, diesel, methane). Drivers are interested in finding as easily as possible the gas station in a specific area of the city, possibly with the cheapest price.
+Each gas station in Italy is free to define the price of fuels (regular gasoline, premium gasoline, diesel, methane). Drivers are interested in finding as easy as possible the gas station in a specific area of the city, possibly with the cheapest price.
 
 EZGas is a crowdsourcing service that allows users to:
 * collect prices of fuels in different gas stations
