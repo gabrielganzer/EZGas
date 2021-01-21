@@ -17,7 +17,3 @@ EZGas is supported by a web application (accessible both via smartphone or PC)
 ## DOCUMENTATION
 
 The whole project documentation can be found at the *docs* folder and the source files at *src*.
-
-## LICENSE
-
-The source code of the project is licensed under the GPLv3 license, unless otherwise stated.
